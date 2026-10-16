@@ -33,7 +33,7 @@ REPOS = [
     ("commitseed", "Found poetry from a repo's git history — haiku, tanka, cinquain, couplets, blackout poems.", "cli · poetry"),
     ("mlp-from-scratch", "Pure-Python multilayer perceptron with hand-written backprop; trains XOR, 8 unit tests.", "ml · python"),
     ("sketchbook", "Weekly generative drawing series — a hand-drawn-look SVG pen engine plus studies and notes.", "art · generative"),
-    ("pygit", "A tiny Git in one Python file — stdlib only; Git-compatible object store + binary index (add/status).", "git · python"),
+    ("pygit", "A tiny Git in one Python file — stdlib only; Git-compatible object store, binary index, checkout, and unified diff.", "git · python"),
 ]
 
 CODE_EXTS = {".py", ".blorp", ".sh", ".js", ".css"}
